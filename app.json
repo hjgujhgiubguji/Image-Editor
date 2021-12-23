@@ -10,7 +10,7 @@
     ],
     "website": "https://TroJanzHEX.me",
     "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/bot_creator_contact",
+    "success_url": "https://telegram.dog/hkbotscreator",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
