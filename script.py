@@ -14,7 +14,7 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-join @bot_creator_contact"""
+join @hkbotscreator"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
